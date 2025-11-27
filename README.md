@@ -23,6 +23,16 @@ Please feel free to comment if you got some value or find any errors!
 13. K-way Merge
 14. Topological Sort
 
+---
+15. Monotonic Stack
+16. Monotonic Queue
+17. Prefix Sum + Difference Array
+18. Hashing / Frequency Map
+19. Dynamic Programming Patterns
+20. Graph Shortest Path Patterns
+21. Disjoint Set (Union-Find)
+
+
 ## 1. Sliding Window
 
 ### Explanation
